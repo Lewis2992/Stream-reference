@@ -1,0 +1,51 @@
+{
+  "streams": [
+    {
+      "title": "qwe",
+      "description": "asd",
+      "id": 1
+    },
+    {
+      "title": "qwe",
+      "description": "asd",
+      "id": 2
+    },
+    {
+      "title": "asd",
+      "description": "zx",
+      "id": 3
+    },
+    {
+      "title": "qwe",
+      "description": "asd",
+      "id": 4
+    },
+    {
+      "title": "qwe",
+      "description": "sdf",
+      "id": 5
+    },
+    {
+      "title": "asd",
+      "description": "zxc",
+      "id": 6
+    },
+    {
+      "title": "asd",
+      "description": "zxc",
+      "id": 7
+    },
+    {
+      "title": "Title",
+      "description": "Desc",
+      "userId": "111576652292097962821",
+      "id": 8
+    },
+    {
+      "title": "New vid",
+      "description": "new desc",
+      "userId": "111576652292097962821",
+      "id": 9
+    }
+  ]
+}

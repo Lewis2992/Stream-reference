@@ -1,0 +1,22 @@
+.streams {
+	width: 75%;
+	h2 {
+		margin-bottom: 1rem;
+	}
+}
+
+.stream {
+	&:not(:last-child) {
+		margin-bottom: 2rem;
+		border-bottom: solid grey 2px;
+	}
+
+	&__title {
+		font-weight: 300;
+		margin-bottom: .5rem;
+	}
+
+	&__desc {
+		margin-bottom: 1rem;
+	}
+}
